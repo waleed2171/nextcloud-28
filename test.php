@@ -2,7 +2,3 @@
 echo "Hello WOrld"
 ?>
 
-
-
-
-kai hal ha
